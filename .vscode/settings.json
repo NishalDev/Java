@@ -1,0 +1,14 @@
+{
+    "java.configuration.runtimes": [
+        
+
+        
+    
+    
+        {
+            "name": "JavaSE-22",
+            "path": "E:\\jdk-22_windows-x64_bin\\jdk-22.0.1",
+            "default": true
+        }
+    ]
+}
